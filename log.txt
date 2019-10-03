@@ -1,0 +1,51 @@
+commit 413431c573fc411d57aa1fd3ff907f68e3f6f60a
+Author: SethgRose <sgrose@mymail.mines.edu>
+Date:   Wed Oct 2 19:17:12 2019 -0600
+
+    Changed mouth size and placement
+
+commit 05d421d23f3357b2715a7a2751301ab031a3d74e
+Author: kjburch <54641247+kjburch@users.noreply.github.com>
+Date:   Wed Oct 2 19:13:48 2019 -0600
+
+    Update Cat.java
+    
+    Added Ears
+
+commit b186f146eb040b24b33d45fd329ff38b3d916e36
+Author: SethgRose <sgrose@mymail.mines.edu>
+Date:   Wed Oct 2 18:53:53 2019 -0600
+
+    Made eyes circles and pushed them farther apart
+
+commit b4ee7e938cc7d8f0464687bf070b127464679452
+Author: kjburch <54641247+kjburch@users.noreply.github.com>
+Date:   Wed Oct 2 18:40:35 2019 -0600
+
+    Update Cat.java
+    
+    Changed cat head color and speech
+
+commit 53e2bee092d2dba72dfb6be09430c6bceb08332a
+Author: SethgRose <sgrose@mymail.mines.edu>
+Date:   Thu Sep 26 10:22:10 2019 -0600
+
+    Set new colors to the mouth and eyes
+
+commit 81d3d0085d43d1abdaba8bc2821e3218d0f62c04
+Author: SethgRose <sgrose@mymail.mines.edu>
+Date:   Thu Sep 26 10:16:31 2019 -0600
+
+    Initial Commit
+
+commit b7f8b32e48b4d42942cbcd9d3bea04d445d6079f
+Author: SethgRose <sgrose@mymail.mines.edu>
+Date:   Thu Sep 26 10:13:45 2019 -0600
+
+    Initial Commit
+
+commit 8158957b5db96b02559e61452d83268522f642c4
+Author: SethgRose <49692748+SethgRose@users.noreply.github.com>
+Date:   Thu Sep 26 09:32:13 2019 -0600
+
+    Initial commit
